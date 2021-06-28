@@ -8,4 +8,7 @@ Friet wordt gemaakt van aardappellen die groeien in de grond.
 als de aardappellen geoogst zijn worden ze gewassen, en daarna worden ze geschild. Dan worden ze gesneden in friet reepjes, en gefrituurd als ze klaar zijn wordt er nog zout op gegooid.
 <br><br>
 <h1> Is friet gezond</h1>
-Friet is niet ongezond als je het niet vaak eet, als je het vaak eet dan is het ongezond omdat er veel vezadigd vet inzit.
+Friet is niet ongezond als je het niet vaak eet, als je het vaak eet dan is het ongezond omdat er veel vezadigd vet inzit. Dus als je er niet veel zout op doet en niet veel frituur vet erin doet het redelijk gezond is.
+<br><br>
+<h1>Is het friet of patat</h1>
+Patat betekent aardappelen en frites betekent gefrituurd dus eigenlijk is het fritus patat. Maar de aardappel is de koning van de gefrituurde snack dus friet kan ook.
