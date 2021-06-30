@@ -2,6 +2,8 @@
 -Hoe wordt friet gemaakt?
 <br>-Is friet gezond?<br>
 -Is het friet of patat?
+<img src="https://lh3.googleusercontent.com/proxy/JjqmqqpsU3_TXALB3BLZ6r5EIzVlZAZPAxHktxY1VQAx_nkKw87lWkhSksIMjGN84zkXtnHQORHq08oEGFa6MH1mrwuReIgIyE7qrOJ3gGLKruOHdSD98c0WctsqMRggF9c" alt="Italian Trulli">
+
 <br><br>
 <h1> Hoe wordt friet gemaakt</h1>
 Friet wordt gemaakt van aardappellen die groeien in de grond.
